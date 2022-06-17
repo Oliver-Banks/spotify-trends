@@ -1,10 +1,10 @@
 # spotify-trends
 
-##General Info:
+##General Info
 This project is to anaylse Spotify trends
 
-##Technologies:
+##Technologies
 Python 3.10
 
-##Setup:
+##Setup
 To do
